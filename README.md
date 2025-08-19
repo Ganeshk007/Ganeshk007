@@ -44,7 +44,7 @@
 ### 📦 Laravel Package Development
 
 - ✅ Published multiple Laravel packages on [Packagist](https://packagist.org/users/Ganeshk007/packages), including:
-  - [`your-vendor/laravel-payment-gateway`](https://packagist.org/packages/ganeshk007/migration-generator): Generate Laravel migration files from existing legacy database schemas..
+  - [`ganeshk007/migration-generator`](https://packagist.org/packages/ganeshk007/migration-generator): Generate Laravel migration files from existing legacy database schemas..
 - 🧪 Follows **PSR standards**, tested with **PHPUnit**, and Composer-ready
 
 ---
